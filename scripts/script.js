@@ -6,7 +6,7 @@ $(function () {
   $.each(GameData, function (index, item) {
     
     // make cards "cooking"
-    var elem = `<div class='card text-center mx-auto bg-dark blue' style="width: 200px"> \
+    var elem = `<div class='card text-center mx-auto bg-dark green' style="width: 200px"> \
   <button class='cardOpen btn btn-outline-info'> ${item.gameName} </button> \
    <div class='cardHide'> \
        <br> \
