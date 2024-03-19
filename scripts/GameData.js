@@ -156,6 +156,19 @@ export const GameData = [
         gameName: "probable-charlie", 
         gameAuthor: "Navraj_Singh", 
     },
+  
+    {
+        gameURL: "https://github.com/RMcDowra/charlie-stunning-octo-pancake",
+        gameName: "charlie-stunning-octo-pancake", 
+        gameAuthor: "Reed McDowra",
+    },
+
+    {
+        gameURL: "https://github.com/RMcDowra/didactic-winner-delta",
+        gameName: "didactic-winner-delta", 
+        gameAuthor: "Reed McDowra", 
+    },
+  
 
     {
         gameURL: "https://github.com/AkashdeepSingh0047/psychic-delta?tab=readme-ov-file",
