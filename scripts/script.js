@@ -7,7 +7,7 @@ $(function () {
     
     // make cards "cooking"
     var elem = `<div class='card text-center mx-auto bg-dark green' style="width: 200px"> \
-  <button class='cardOpen btn btn-outline-info'> ${item.gameName} </button> \
+  <button class="text-white" style="background-color: #121212;"'cardOpen btn btn-outline-info'> ${item.gameName} </button> \
    <div class='cardHide'> \
        <br> \
        <a href="${item.gameURL}" target="_blank" class="link-info" >Game URL</a> \
